@@ -8,7 +8,7 @@
 
 ## Play Online
 
-**[Play Geometry Dash](https://gd-webport.pages.dev/)**
+**[Play Geometry Dash](https://geometry-dash.devs.li)**
 
 Open the link, wait for the game to load, and start playing.
 
@@ -22,7 +22,7 @@ The online version is updated whenever changes are published.
 
 Downloaded files and forks don't update automatically. To get the latest version, you can:
 
-* **Play online:** Open the [webport](https://gd-webport.pages.dev/).
+* **Play online:** Open the [webport](https://geometry-dash.devs.li).
 * **Download the latest file:** Open [index.html](index.html) in this repository, click the download icon, and open the file in your browser.
 
 The version update notice is only displayed when an Internet connection is available.
@@ -95,7 +95,7 @@ Offline availability depends on your browser retaining the necessary files. It i
 
 Found a bug while playing? You can report it in the repository's Issues section to help improve the game.
 
-**[Report a Bug](https://github.com/Ale7208/Geometry-Dash-webport/issues)**
+**[Report a Bug](https://github.com/Kyntric-GIT/Geometry-Dash/issues/)**
 
 When reporting a bug, please explain what happened and, if possible, how to reproduce it. **If the bug is visual, please include a screenshot** to help identify the issue.
 
@@ -105,6 +105,6 @@ When reporting a bug, please explain what happened and, if possible, how to repr
 
 * **RobTop Games:** Creator of the original Geometry Dash.
 * **Bog:** Creator of the web port.
-* **Ale7208:** Improvements and bug fixes.
+* **Kyntric-GIT:** Improvements and bug fixes.
 
 Geometry Dash belongs to its respective creator. This is an unofficial fan port and is not affiliated with or endorsed by RobTop Games.
